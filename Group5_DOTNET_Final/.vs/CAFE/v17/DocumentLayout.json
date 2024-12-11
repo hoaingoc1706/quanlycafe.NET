@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|c:\\users\\admin\\documents\\.net\\btlhoanchinh\\group5_dotnet_final\\cafe\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\class\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\class\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\hoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\cafe\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37DCF053-1655-449A-AE8B-BD79CF4C8032}|CAFE\\CAFE.csproj|solutionrelative:cafe\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 345,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sanpham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Sanpham.cs",
+              "RelativeDocumentMoniker": "CAFE\\Sanpham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Sanpham.cs",
+              "RelativeToolTip": "CAFE\\Sanpham.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAIA4wCcBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:50:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sanpham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Sanpham.cs",
+              "RelativeDocumentMoniker": "CAFE\\Sanpham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Sanpham.cs [Design]",
+              "RelativeToolTip": "CAFE\\Sanpham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:50:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hoadon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Hoadon.Designer.cs",
+              "RelativeDocumentMoniker": "CAFE\\Hoadon.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Hoadon.Designer.cs",
+              "RelativeToolTip": "CAFE\\Hoadon.Designer.cs",
+              "ViewState": "AQIAAAMFAAAAAAAAAAAkwAYFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:50:09.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hoadon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Hoadon.cs",
+              "RelativeDocumentMoniker": "CAFE\\Hoadon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Hoadon.cs",
+              "RelativeToolTip": "CAFE\\Hoadon.cs",
+              "ViewState": "AQIAAHgEAAAAAAAAAAAkwIIEAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:48:53.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\CLass\\Functions.cs",
+              "RelativeDocumentMoniker": "CAFE\\CLass\\Functions.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\CLass\\Functions.cs",
+              "RelativeToolTip": "CAFE\\CLass\\Functions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:37:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sanpham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Sanpham.Designer.cs",
+              "RelativeDocumentMoniker": "CAFE\\Sanpham.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Sanpham.Designer.cs",
+              "RelativeToolTip": "CAFE\\Sanpham.Designer.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAjwN8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:13:44.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hoadon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Hoadon.cs",
+              "RelativeDocumentMoniker": "CAFE\\Hoadon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Hoadon.cs [Design]",
+              "RelativeToolTip": "CAFE\\Hoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:27:29.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Timkiem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Timkiem.cs",
+              "RelativeDocumentMoniker": "CAFE\\Timkiem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Timkiem.cs",
+              "RelativeToolTip": "CAFE\\Timkiem.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwCcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:46:16.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Timkiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Timkiem.cs",
+              "RelativeDocumentMoniker": "CAFE\\Timkiem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Timkiem.cs [Design]",
+              "RelativeToolTip": "CAFE\\Timkiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:46:10.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Baocao.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Baocao.cs",
+              "RelativeDocumentMoniker": "CAFE\\Baocao.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Baocao.cs",
+              "RelativeToolTip": "CAFE\\Baocao.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAuwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:10:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Baocao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\Baocao.cs",
+              "RelativeDocumentMoniker": "CAFE\\Baocao.cs",
+              "ToolTip": "D:\\E\\C#\\Group5_DOTNET_Final\\CAFE\\Baocao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:14:31.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trangchu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\TrangChu.cs",
+              "RelativeDocumentMoniker": "CAFE\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\TrangChu.cs",
+              "RelativeToolTip": "CAFE\\TrangChu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:39:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trangchu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NET\\BTLhoanchinh\\Group5_DOTNET_Final\\CAFE\\TrangChu.cs",
+              "RelativeDocumentMoniker": "CAFE\\TrangChu.cs",
+              "ToolTip": "D:\\E\\C#\\Group5_DOTNET_Final\\CAFE\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:05:06.97Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
